@@ -428,7 +428,7 @@ export default function Example() {
       </div>
       <div className="bg-[#000]">
         <video
-          src="../public/demo.mp4"
+          src="/static/demo.mp4"
           autoPlay
           loop
           className="mx-auto w-full h-[600px]"
